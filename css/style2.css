@@ -1,0 +1,151 @@
+body{
+   
+    text-align: center;
+    position: relative;
+   margin: 0%;
+}
+header{
+    background-color: rgb(130 192 192);
+}
+h1{
+    text-align: center;
+    font-family: 'Sacramento', cursive;
+  font-size: 104px;
+  margin: 0%;
+}
+h2{
+    text-align: center;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 40px;
+}
+h3{
+    color: rgb(255, 0, 119);
+}
+.cloud1{
+    
+    position: absolute;
+    top: 24px;
+    left: 1160px;
+    right: 54px;
+}
+.cloud2{
+   position: absolute;
+   top: 224px;
+   right: 29px;
+   left: 167px;
+   
+}
+.about{
+    width: 50%;
+    margin: auto;
+}
+.my-image{
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+   
+}
+p{
+    font-size: 1.25rem;
+    line-height: 2;
+}
+.intro{
+    width: 50%;
+    margin: auto;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: aqua;
+    border-width: 5px;
+    width: 5%;
+    margin: 100px auto;
+
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+   
+}
+.skill-1{
+    height: 200px;
+    width: 200px;
+    float: left;
+    margin-right: 80px;
+}
+.skill-2{
+    height: 200px;
+    width: 200px;
+    float:right;
+    margin-left: 80px;
+
+}
+.skill-3{
+    height: 242px;
+    width: 209px;
+    float: left;
+    margin-right: 80px;
+}
+.skill-4{
+    height: 200px;
+    width: 200px;
+    float:right;
+    margin-left: 80px;
+}
+
+.contact{
+    text-align: center;
+   margin-left: 27%;
+   margin-right: 23%;
+   
+
+}
+
+.buttonClass {
+    font-size:27px;
+    font-family:Arial;
+    width:140px;
+    height:50px;
+    border-width:1px;
+    color:#fff;
+    border-color:#18ab29;
+    font-weight:bold;
+    border-top-left-radius:28px;
+    border-top-right-radius:28px;
+    border-bottom-left-radius:28px;
+    border-bottom-right-radius:28px;
+    text-shadow: 1px 1px 0px #2f6627;
+    background:#44c767;
+  }
+  
+  .buttonClass:hover {
+    background: #5cbf2a
+  }
+ .profile{
+     padding-top: 32px;
+ }
+ section{
+     background-color: #beb793;
+ }
+ .footer-link{
+     color: #4e2d9b;
+     margin: 10px 15px;
+     font-size: 30px;
+     text-decoration: none;
+ }
+.footer-link:hover{
+color: rgb(171, 196, 105);
+}
+.bottom-container{
+    background-color: #77c1ec;
+    margin: 0%;
+    padding: 50px 0px 20px;
+}
+p{
+    font-family: 'Baloo Da 2', cursive;
+}
+.bottom-container{
+    font-family: 'Merriweather Sans', sans-serif;
+
+}
